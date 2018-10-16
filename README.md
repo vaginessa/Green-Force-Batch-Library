@@ -1,6 +1,8 @@
 # Green-Force-Batch-Library
 This is a batch library for USB Green force.
 
+Made for USB mini!!!
+
 библиотека бат файлов для флешек стиллеров которые используются для кражи паролей от аккаунтов и COOKIE файлов.
  
 To hack passwords slowly:
